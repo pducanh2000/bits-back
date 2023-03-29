@@ -1,4 +1,7 @@
+**This is my branch for learning bits back coding and testing with my dataset**
+
 Code for the paper [Practical Lossless Compression with Latent Variables using Bits Back Coding](https://openreview.net/forum?id=ryE98iR5tm), appearing at ICLR 2019.
+
 
 All of the code was written by [Jamie Townsend](https://github.com/j-towns/) and [Tom Bird](https://github.com/tom-bird).
 ### Overview of the code
